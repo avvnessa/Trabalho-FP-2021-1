@@ -1,3 +1,6 @@
+ <img align="right" alt="jogo21-pic" height="150" style="border-radius:25px;" src="https://user-images.githubusercontent.com/96122153/235377285-bea2ca22-d89a-45a0-b1a9-baf1b1d416cc.jpg">
+ </div>
+ 
 # Jogo 21 em C
 
 Este é o repositório para o jogo 21, um jogo de cartas simples, desenvolvido como um trabalho final da disciplina Fundamentos de Programação.
